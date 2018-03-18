@@ -1,4 +1,4 @@
-#TI GAME  
+TI GAME  
 
 A simple multi calculator TI-84 game built in TI Basic in my spare time between classes on ULL's campus.  
 
