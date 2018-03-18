@@ -1,0 +1,51 @@
+0→Z
+0→R
+0→S
+ClrHome
+Disp "Set your secret..."
+
+Repeat Ans
+getKey→S
+End
+
+GetCalc(A)
+(A=π)+π(A≠π)→A
+
+If A=π:Goto A
+If A=:Goto B
+
+Lbl A
+ClrHome
+Disp "A
+Repeat Z=S
+Repeat Ans
+getKey→R
+End
+Output(4,8,Z)
+Pause 
+Get(Z
+ClrHome
+End
+Goto E
+
+
+Lbl B
+ClrHome
+Disp "B
+Repeat R=S
+Repeat Ans
+getKey→Z
+End
+Output(4,8,R)
+Get(R
+Pause 
+ClrHome
+End
+Goto E
+
+Lbl E
+ClrHome
+Disp "You lose.
+Repeat 1=0
+
+End
