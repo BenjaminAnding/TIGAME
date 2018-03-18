@@ -8,7 +8,7 @@ Data is transferred over IO cable or CBL2 interface.
 
 2. Select a "secret" by pressing a (random) key on your calulator.  
 
-3. After a secret has been selected, your calculators ID (A or B) will be displayed at the top left of the screen.  
+3. After a secret has been selected, your calculator's ID (A or B) will be displayed at the top left of the screen.  
 
 4. When the screen is blank, make your selection, then the screen will display your opponents selection (keys are mapped to the standard TI84 keymapping)  
 
