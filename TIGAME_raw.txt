@@ -9,10 +9,10 @@ getKey→S
 End
 
 GetCalc(A)
-(A=π)+π(A≠π)→A
+e(A=π)+π(A≠π)→A
 
 If A=π:Goto A
-If A=:Goto B
+If A=e:Goto B
 
 Lbl A
 ClrHome
